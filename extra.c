@@ -8,8 +8,15 @@
 
 // Variable types
 
-#define uint8 __UINT8_TYPE__
-#define int8 __INT8_TYPE__
+#define uint8       __UINT8_TYPE__
+#define uint16      __UINT16_TYPE__
+#define uint32      __UINT32_TYPE__
+#define uint64      __UINT64_TYPE__
+
+#define int8        __INT8_TYPE__
+#define int16      __INT16_TYPE__
+#define int32      __INT32_TYPE__
+#define int64      __INT64_TYPE__
 
 
 // Functions :3
