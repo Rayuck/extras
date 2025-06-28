@@ -6,6 +6,11 @@
 #define ERROR "\033[1;37m[\033[1;91m-\033[1;37m]\033[1;91m"
 #define SUCCESS "\033[1;37m[\033[1;92m+\033[1;37m]\033[1;92m"
 
+// Variable types
+
+#define uint8 __UINT8_TYPE__
+#define int8 __INT8_TYPE__
+
 
 // Functions :3
 
