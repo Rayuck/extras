@@ -9,7 +9,7 @@
 
 // Functions :3
 
-unsigned int compare(char *s1, char *s2){
+unsigned int compare(const char *s1, char *s2){
     unsigned int index=0;
     while(*(s1+index)!='\0' && *(s2+index)!='\0'){
         if(*(s1+index)!=*(s2+index)) return 0;
