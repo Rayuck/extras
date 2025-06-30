@@ -4,6 +4,7 @@
 #define WHITE "\033[1;37m"
 #define GREEN "\033[1;92m"
 #define DEFAULT "\033[0m"
+#define WARNING "\033[1;37m[\033[1;93m~\033[1;37m"
 #define ERROR "\033[1;37m[\033[1;91m-\033[1;37m]\033[1;91m"
 #define SUCCESS "\033[1;37m[\033[1;92m+\033[1;37m]\033[1;92m"
 
